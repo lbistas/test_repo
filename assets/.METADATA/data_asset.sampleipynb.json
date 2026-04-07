@@ -1,0 +1,38 @@
+{
+  "metadata": {
+    "name": "sample.ipynb",
+    "asset_type": "data_asset",
+    "origin_country": "us",
+    "asset_category": "USER",
+    "created_at": "2026-04-07T13:15:10Z",
+    "created": 1775567710252,
+    "asset_id": "data_asset.sampleipynb",
+    "asset_attributes": [
+      "data_asset",
+      "directory_asset"
+    ]
+  },
+  "entity": {
+    "data_asset": {
+      "dataset": false,
+      "mime_type": "application/x-ipynb+json"
+    },
+    "directory_asset": {
+      "path": ""
+    }
+  },
+  "attachments": [
+    {
+      "asset_type": "data_asset",
+      "name": "sample.ipynb",
+      "mime": "application/x-ipynb+json",
+      "object_key": "../assettypes/sample.ipynb",
+      "object_key_is_read_only": true,
+      "created_at": "2026-04-07T13:15:10Z",
+      "id": "2659baff-7709-47c3-aac3-486e07e14f94",
+      "is_managed": false,
+      "is_referenced": true,
+      "is_remote": false
+    }
+  ]
+}
